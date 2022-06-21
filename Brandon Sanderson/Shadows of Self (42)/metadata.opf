@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d9f124d-a16c-4963-b28c-a299e8413915</dc:identifier>
+        <dc:title>Shadows of Self</dc:title>
+        <dc:creator opf:file-as="Sanderson, Brandon" opf:role="aut">Brandon Sanderson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-10-06T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Three hundred years after the events of the Mistborn trilogy, Scadrial is now on the verge of modernity, with railroads to supplement the canals, electric lighting in the streets and the homes of the wealthy, and the first steel-framed skyscrapers racing for the clouds.&lt;br&gt;&lt;br&gt;When family obligations forced Waxillium Ladrian to forsake the frontier lands and return to the metropolis of his birth to take his place as head of a noble House, he little imagined that the crime-fighting skills acquired during twenty years in the dusty plains would be just as applicable in the big city. He soon learned that there too, just being a talented Twinborn — one who can use both Allomancy and Feruchemy, the dominant magical modes on Scadrial — would not suffice.&lt;br&gt;&lt;br&gt;This bustling, optimistic, but still shaky society will now face its first test by terrorism and assassination, crimes intended to stir up labor strife and religious conflict. Wax, his eccentric sidekick Wayne, and brilliant, beautiful young Marasi, now officially part of the constabulary, must unravel the conspiracy before civil strife can stop Scadrial’s progress in its tracks. &lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780765378569</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B00R697CGS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Brandon Sanderson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Mistborn"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Shadows of Self"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
