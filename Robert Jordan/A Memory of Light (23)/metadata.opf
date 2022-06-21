@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da8e5d85-08ab-4478-ab16-53a59c4647e9</dc:identifier>
+        <dc:title>A Memory of Light</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-08T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.&lt;br&gt;&lt;br&gt;When Robert Jordan died in 2007, all feared that these concluding scenes would never be written. But working from notes and partials left by Jordan, established fantasy writer Brandon Sanderson stepped in to complete the masterwork. With The Gathering Storm (Book 12) and Towers of Midnight (Book 13) behind him, both of which were # 1 New York Times hardcover bestsellers, Sanderson now re-creates the vision that Robert Jordan left behind in A Memory of Light.&lt;br&gt;&lt;br&gt;Edited by Jordan's widow, who edited all of Jordan's books, A Memory of Light will delight, enthrall, and deeply satisfy all of Jordan's legions of readers.&lt;br&gt;&lt;br&gt;The Wheel of Time turns, and Ages come and pass.&lt;br&gt;What was, what will be, and what is,&lt;br&gt;may yet fall under the Shadow.&lt;br&gt;Let the Dragon ride again on the winds of time.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9781841498720</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B00BMKDTNC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Jordan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Wheel of Time"/>
+        <meta name="calibre:series_index" content="14"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Memory of Light, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

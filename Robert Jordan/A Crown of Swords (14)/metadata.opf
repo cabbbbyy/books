@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10009648-ec34-4669-9385-259a3330d19e</dc:identifier>
+        <dc:title>A Crown of Swords</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-11-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.&lt;br&gt;&lt;br&gt;Elayne, Aviendha, and Mat come ever closer to the bowl ter'angreal that may reverse the world's endless heat wave and restore natural weather. Egwene begins to gather all manner of women who can channel--Sea Folk, Windfinders, Wise Ones, and some surprising others. And above all, Rand faces the dread Forsaken Sammael, in the shadows of Shadar Logoth, where the blood-hungry mist, Mashadar, waits for prey.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ASIN">B003H4I5G2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780812550283</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Jordan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Wheel of Time"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Crown of Swords, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

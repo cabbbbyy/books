@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ac87c4e7-be84-45e9-b86d-1feb629e25bf</dc:identifier>
+        <dc:title>Towers of Midnight</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-02T18:19:40+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In Towers of Midnight, the Last Battle has started. The seals on the Dark One's prison are crumbling. The Pattern itself is unraveling, and the armies of the Shadow have begun to boil out of the Blight.&lt;br&gt;&lt;br&gt;The sun has begun to set upon the Third Age.&lt;br&gt;&lt;br&gt;Perrin Aybara is now hunted by specters from his past: Whitecloaks, a slayer of wolves, and the responsibilities of leadership. All the while, an unseen foe is slowly pulling a noose tight around his neck. To prevail, he must seek answers in Tel'aran'rhiod and find a way--at long last--to master the wolf within him or lose himself to it forever.&lt;br&gt;&lt;br&gt;Meanwhile, Matrim Cauthon prepares for the most difficult challenge of his life. The creatures beyond the stone gateways--the Aelfinn and the Eelfinn--have confused him, taunted him, and left him hanged, his memory stuffed with bits and pieces of other men's lives. He had hoped that his last confrontation with them would be the end of it, but the Wheel weaves as the Wheel wills. The time is coming when he will again have to dance with the Snakes and the Foxes, playing a game that cannot be won. The Tower of Ghenjei awaits, and its secrets will reveal the fate of a friend long lost.&lt;br&gt;&lt;br&gt;Dovie'andi se tovya sagain. It's time to toss the dice.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780765325945</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B003P8Q5QC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Jordan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Wheel of Time"/>
+        <meta name="calibre:series_index" content="13"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Towers of Midnight"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

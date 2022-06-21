@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41912f56-6e3e-491d-995a-502c688a37cc</dc:identifier>
+        <dc:title>Winter's Heart</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2002-01-07T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;After locating Masema Dagar, the Prophet of the Dragon, on Rand’s behalf, Perrin Aybara returns to his encampment to discover his wife Faile has been abducted by the Shaido Aiel. Determined to reclaim her, Perrin forgoes his mission, risking his army in pursuit of a dangerous and unpredictable enemy.&lt;br&gt;&lt;br&gt;Wounded and trapped in the Seanchan-occupied city of Ebou Dar, Mat Cauthon is awaiting an opportunity to leave. But he is not the only one in hiding. Three Aes Sedai are desperate to escape. As Mat seeks a way to smuggle them all out of the city, he encounters his own prophesized fate when he meets the Daughter of the Nine Moons.&lt;br&gt;&lt;br&gt;Rand himself is on a mission of vengeance. He has tracked the traitorous Asha’man who tried to kill him to Far Madding. It is a city where no one is capable of channeling the One Power, leaving Rand vulnerable to those who would stop at nothing to destroy the Dragon Reborn…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780812575583</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B003H3IOKU</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Jordan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Wheel of Time"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Winter's Heart"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

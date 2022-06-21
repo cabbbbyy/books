@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">130f0ed4-fb15-421f-9354-be7ff0af5257</dc:identifier>
+        <dc:title>The Fires of Heaven</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-10-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Prophesized to defeat the Dark One, Rand al'Thor, the Dragon Reborn, has upset the balance of power across the land. Shaido Aiel are on the march, ravaging everything in their path. The White Tower's Amyrlin has been deposed, turning the Aes Sedai against one another. The forbidden city of Rhuidean is overrun by Shadowspawn.&lt;br&gt;&lt;br&gt;Despite the chaos swirling around him, Rand continues to learn how to harness his abilities, determined to wield the One Power--and ignoring the counsel of Moiraine Damodred at great cost.&lt;br&gt;&lt;br&gt;Since its debut in 1990, The Wheel of Time® by Robert Jordan has captivated millions of readers around the globe with its scope, originality, and compelling characters. The last six books in series were all instant #1 New York Times bestsellers, and The Eye of the World was named one of America's best-loved novels by PBS's The Great American Read.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ASIN">B0037V18D2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780812550306</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Jordan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Wheel of Time"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Fires of Heaven, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

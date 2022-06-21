@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13a730b6-cf3c-4ad7-8e7e-64d80423d9bf</dc:identifier>
+        <dc:title>Lord of Chaos</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-11-15T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Now ruling Tear, Andor, and Caemlyn, among other nations, Rand is recruiting all men capable of channeling to be trained as his Asha'man soldiers. The warrior Aiel clans have pledged loyalty to Rand, acknowledging him as their chief of chiefs, even though the Shaido Aiel remain a threat.&lt;br&gt;&lt;br&gt;Split into two factions, the Aes Sedai of the White Tower and their rebel counterparts both seek to ally themselves with the Dragon Reborn. Rand knows all too well the manipulative nature of the Aes Sedai, no matter which side of their internal war they stand upon. But even he cannot predict just how desperate, cruel, and treacherous they can be.&lt;br&gt;&lt;br&gt;And in the shadows, the Forsaken and the Dark One are conjuring even more chaos... &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ASIN">B003BQZ80M</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780812513752</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Jordan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Wheel of Time"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Lord of Chaos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ebfcca04-8fcb-4b7e-82b5-06d37e75120d</dc:identifier>
+        <dc:title>The Dragon Reborn</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-04-11T01:54:56+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Winter has stopped the war—almost—yet men are dying, calling out for the Dragon. But where is he?&lt;br&gt;&lt;br&gt;Rand al’Thor has been proclaimed the Dragon Reborn. Traveling to the great fortress known as the Stone of Tear, he plans to find the sword Callandor, which can only be wielded by the Champion of Light, and discover if he truly is destined to battle The Dark One. Following Rand, Moiraine and their friends battle Darkhounds on the hunt, hoping they reach the Heart of the Stone in time for the next great test awaiting the Dragon Reborn.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ASIN">B0030AF5DO</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Jordan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Wheel of Time"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Dragon Reborn, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

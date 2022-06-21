@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">335d6367-9d76-4a04-b6dc-48b4243e9e68</dc:identifier>
+        <dc:title>The Path of Daggers</dc:title>
+        <dc:creator opf:file-as="Jordan, Robert" opf:role="aut">Robert Jordan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1998-06-15T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Wheel of Time turns and Ages come and go, leaving memories that become legend. Legend fades to myth, and even myth is long forgotten when the Age that gave it birth returns again. In the Third Age, an Age of Prophecy, the World and Time themselves hang in the balance. What was, what will be, and what is, may yet fall under the Shadow.&lt;br&gt;&lt;br&gt;The Seanchan invasion force is in possession of Ebou Dar. Nynaeve, Elayne, and Aviendha head for Caemlyn and Elayne's rightful throne, but on the way they discover an enemy much worse than the Seanchan.&lt;br&gt;&lt;br&gt;In Illian, Rand vows to throw the Seanchan back as he did once before. But signs of madness are appearing among the Asha'man.&lt;br&gt;&lt;br&gt;In Ghealdan, Perrin faces the intrigues of Whitecloaks, Seanchan invaders, the scattered Shaido Aiel, and the Prophet himself. Perrin's beloved wife, Faile, may pay with her life, and Perrin himself may have to destroy his soul to save her.&lt;br&gt;&lt;br&gt;Meanwhile the rebel Aes Sedai under their young Amyrlin, Egwene al'Vere, face an army that intends to keep them away from the White Tower. But Egwene is determined to unseat the usurper Elaida and reunite the Aes Sedai. She does not yet understand the price that others--and she herself--will pay.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ASIN">B003H4I44K</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781429960595</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Robert Jordan&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Wheel of Time"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Path of Daggers, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
