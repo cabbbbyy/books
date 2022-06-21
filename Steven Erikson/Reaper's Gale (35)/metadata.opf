@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8c5acbb-bc61-42f2-9fc0-4bd0a43b0741</dc:identifier>
+        <dc:title>Reaper's Gale</dc:title>
+        <dc:creator opf:file-as="Erikson, Steven" opf:role="aut">Steven Erikson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-01-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;All is not well in the Letherii Empire. Rhulad Sengar, the Emperor of a Thousand Deaths, spirals into madness, surrounded by sycophants and agents of his Machiavellian chancellor. Meanwhile, the Letherii secret police conduct a campaign of terror against their own people. The Errant, once a farseeing god, is suddenly blind to the future. Conspiracies seethe throughout the palace, as the empire - driven by the corrupt and self-interested - edges ever-closer to all-out war with the neighboring kingdoms. &lt;br&gt;&lt;br&gt;The great Edur fleet--its warriors selected from countless numbers of people--draws closer. Amongst the warriors are Karsa Orlong and Icarium Lifestealer--each destined to cross blades with the emperor himself. That yet more blood is to be spilled is inevitable... Against this backdrop, a band of fugitives seek a way out of the empire, but one of them, Fear Sengar, must find the soul of Scabandari Bloodeye. It is his hope that the soul might help halt the Tiste Edur, and so save his brother, the emperor. Yet, traveling with them is Scabandari's most ancient foe: Silchas Ruin, brother of Anomander Rake. And his motives are anything but certain - for the wounds he carries on his back, made by the blades of Scabandari, are still fresh. &lt;br&gt;&lt;br&gt;Fate decrees that there is to be a reckoning, for such bloodshed cannot go unanswered--and it will be a reckoning on an unimaginable scale. This is a brutal, harrowing novel of war, intrigue and dark, uncontrollable magic; this is epic fantasy at its most imaginative, storytelling at its most thrilling.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ASIN">B003JH8M74</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">0553813161</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Steven Erikson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Malazan Book of the Fallen"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Reaper's Gale"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

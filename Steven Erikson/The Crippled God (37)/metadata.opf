@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb63eff8-77b2-467a-b030-185a2f957c94</dc:identifier>
+        <dc:title>The Crippled God</dc:title>
+        <dc:creator opf:file-as="Erikson, Steven" opf:role="aut">Steven Erikson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-15T06:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Savaged by the K'Chain Nah'Ruk, the Bonehunters march for Kolanse, where waits an unknown fate. Tormented by questions, the army totters on the edge of mutiny, but Adjunct Tavore will not relent. One final act remains, if it is in her power, if she can hold her army together, if the shaky allegiances she has forged can survive all that is to come. A woman with no gifts of magic, deemed plain, unprepossessing, displaying nothing to instill loyalty or confidence, Tavore Paran of House Paran means to challenge the gods – if her own troops don't kill her first.&lt;br&gt;&lt;br&gt;Awaiting Tavore and her allies are the Forkrul Assail, the final arbiters of humanity. Drawing upon an alien power terrible in its magnitude, they seek to cleanse the world, to annihilate every human, every civilization, in order to begin anew. They welcome the coming conflagration of slaughter, for it shall be of their own devising, and it pleases them to know that, in the midst of the enemies gathering against them, there shall be betrayal.&lt;br&gt;&lt;br&gt;In the realm of Kurald Galain, home to the long lost city of Kharkanas, a mass of refugees stand upon the First Shore. Commanded by Yedan Derryg, the Watch, they await the breaching of Lightfall, and the coming of the Tiste Liosan. This is a war they cannot win, and they will die in the name of an empty city and a queen with no subjects.&lt;br&gt;&lt;br&gt;Elsewhere, the three Elder Gods, Kilmandaros, Errastas and Sechul Lath, work to shatter the chains binding Korabas, the Otataral Dragon, from her eternal prison. Once freed, she will rise as a force of devastation, and against her no mortal can stand. At the Gates of Starvald Demelain, the Azath House sealing the portal is dying. Soon will come the Eleint, and once more, there will be dragons in the world.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ASIN">B004H1TQA8</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780765310101</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Steven Erikson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Malazan Book of the Fallen"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Crippled God, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">31</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">35789ca0-3dcf-466d-97ad-73a7ad77cbbd</dc:identifier>
+        <dc:title>Deadhouse Gates</dc:title>
+        <dc:creator opf:file-as="Erikson, Steven" opf:role="aut">Steven Erikson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-02-01T02:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In the vast dominion of Seven Cities, in the Holy Desert Raraku, the seer Sha'ik and her followers prepare for the long-prophesied uprising known as the Whirlwind. Unprecedented in size and savagery, this maelstrom of fanaticism and bloodlust will embroil the Malazan Empire in one of the bloodiest conflicts it has ever known, shaping destinies and giving birth to legends . . . &lt;br&gt;&lt;br&gt;Set in a brilliantly realized world ravaged by dark, uncontrollable magic, Deadhouse Gates is a novel of war, intrigue and betrayal confirms Steven Eirkson as a storyteller of breathtaking skill, imagination and originality--a new master of epic fantasy.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780593046227</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B002S6UNRE</dc:identifier>
+        <dc:language>en</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Steven Erikson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Malazan Book of the Fallen"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Deadhouse Gates"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

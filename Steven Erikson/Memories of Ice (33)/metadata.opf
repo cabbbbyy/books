@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2aae7b33-5966-4114-8726-3d33dfc0c0a8</dc:identifier>
+        <dc:title>Memories of Ice</dc:title>
+        <dc:creator opf:file-as="Erikson, Steven" opf:role="aut">Steven Erikson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2001-01-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The ravaged continent of Genabackis has given birth to a terrifying new empire: the Pannion Domin. Like a tide of corrupted blood, it seethes across the land, devouring all. In its path stands an uneasy alliance: Onearm's army and Whiskeyjack's Bridgeburners alongside their enemies of old--the forces of the Warlord Caladan Brood, Anomander Rake and his Tiste Andii mages, and the Rhivi people of the plains. &lt;br&gt;&lt;br&gt;But ancient undead clans are also gathering; the T'lan Imass have risen. For it would seem something altogether darker and more malign threatens this world. Rumors abound that the Crippled God is now unchained and intent on a terrible revenge.&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ASIN">B004JXVYO0</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781409083160</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Steven Erikson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Malazan Book of the Fallen"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Memories of Ice"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

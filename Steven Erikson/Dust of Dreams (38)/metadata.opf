@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4fe1b26f-5312-463f-afd4-89475c896a8d</dc:identifier>
+        <dc:title>Dust of Dreams</dc:title>
+        <dc:creator opf:file-as="Erikson, Steven" opf:role="aut">Steven Erikson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-06-14T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In war everyone loses. This brutal truth can be seen in the eyes of every soldier in every world…&lt;br&gt;&lt;br&gt;In Letherii, the exiled Malazan army commanded by Adjunct Tavore begins its march into the eastern Wastelands, to fight for an unknown cause against an enemy it has never seen. &lt;br&gt;&lt;br&gt;And in these same Wastelands, others gather to confront their destinies. The warlike Barghast, thwarted in their vengeance against the Tiste Edur, seek new enemies beyond the border and Onos Toolan, once immortal T'lan Imass now mortal commander of the White Face clan, faces insurrection. To the south, the Perish Grey Helms parlay passage through the treacherous kingdom of Bolkando. Their intention is to rendezvous with the Bonehunters but their vow of allegiance to the Malazans will be sorely tested. And ancient enclaves of an Elder Race are in search of salvation—not among their own kind, but among humans—as an old enemy draws ever closer to the last surviving bastion of the K'Chain Che'Malle.&lt;br&gt;&lt;br&gt;So this last great army of the Malazan Empire is resolved to make one final defiant, heroic stand in the name of redemption. But can deeds be heroic when there is no one to witness them? And can that which is not witnessed forever change the world? Destines are rarely simple, truths never clear but one certainty is that time is on no one's side. For the Deck of Dragons has been read, unleashing a dread power that none can comprehend…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780553824803</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B0034184W8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Steven Erikson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Malazan Book of the Fallen"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Dust of Dreams"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

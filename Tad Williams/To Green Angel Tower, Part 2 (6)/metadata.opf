@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1e77386-2dde-496d-b9fa-2929f19e62fd</dc:identifier>
+        <dc:title>To Green Angel Tower, Part 2</dc:title>
+        <dc:creator opf:file-as="Williams, Tad" opf:role="aut">Tad Williams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1994-07-02T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The evil minions of the undead Sithi Storm King are beginning their final preparations for the kingdom-shattering culmination of their dark sorceries, drawing King Elias ever deeper into their nightmarish, spell-spun world.&lt;/p&gt;
+&lt;p&gt;As the Storm King’s power grows and the boundaries of time begin to blur, the loyal allies of Prince Josua struggle to rally their forces at the Stone of Farewell. There, too, Simon and the surviving members of the League of the Scroll have gathered for a desperate attempt to unravel mysteries from the forgotten past. &lt;/p&gt;
+&lt;p&gt;For if the League can reclaim these age-old secrets of magic long-buried beneath the dusts of time, they may be able to reveal to Josua and his army the only means of striking down the unslayable foe....&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780886776060</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0886776066</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Tad Williams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Memory, Sorrow, and Thorn"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="To Green Angel Tower, Part 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

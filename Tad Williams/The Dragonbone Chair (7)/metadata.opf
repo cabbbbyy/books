@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86af13be-ce5f-491b-9d47-4f234971ccd1</dc:identifier>
+        <dc:title>The Dragonbone Chair</dc:title>
+        <dc:creator opf:file-as="Williams, Tad" opf:role="aut">Tad Williams</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1989-11-07T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A war fueled by the powers of dark sorcery is about to engulf the peaceful land of Osten Ard—for Prester John, the High King, lies dying. And with his death, the Storm King, the undead ruler of the elf-like Sithi, seizes the chance to regain his lost realm through a pact with the newly ascended king. Knowing the consequences of this bargain, the king’s younger brother joins with a small, scattered group of scholars, the League of the Scroll, to confront the true danger threatening Osten Ard.&lt;/p&gt;
+&lt;p&gt;Simon, a kitchen boy from the royal castle unknowingly apprenticed to a member of this League, will be sent on a quest that offers the only hope of salvation, a deadly riddle concerning long-lost swords of power. Compelled by fate and perilous magics, he must leave the only home he’s ever known and face enemies more terrifying than Osten Ard has ever seen, even as the land itself begins to die.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780886773847</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0886773849</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Tad Williams&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Memory, Sorrow, and Thorn"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Dragonbone Chair, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1578a647-9e45-42ad-ac9a-79e515f7e4cc</dc:identifier>
+        <dc:title>Toll the Hounds</dc:title>
+        <dc:creator opf:file-as="Erikson, Steven" opf:role="aut">Steven Erikson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-09T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In Darujhistan, the city of blue fire, it is said that love and death shall arrive dancing. It is summer and the heat is oppressive, but for the small round man in the faded red waistcoat, discomfiture is not just because of the sun. All is not well. Dire portents plague his nights and haunt the city streets like fiends of shadow. Assassins skulk in alleyways, but the quarry has turned and the hunters become the hunted. &lt;br&gt;&lt;br&gt;Hidden hands pluck the strings of tyranny like a fell chorus. While the bards sing their tragic tales, somewhere in the distance can be heard the baying of Hounds...And in the distant city of Black Coral, where rules Anomander Rake, Son of Darkness, ancient crimes awaken, intent on revenge. It seems Love and Death are indeed about to arrive...hand in hand, dancing.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:identifier opf:scheme="ISBN">9780553824469</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B003GY0K02</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;Steven Erikson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Malazan Book of the Fallen"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+        <meta name="calibre:title_sort" content="Toll the Hounds"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
